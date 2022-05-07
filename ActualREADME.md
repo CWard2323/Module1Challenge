@@ -4,3 +4,4 @@ I found all the HTML elements to be in order.
 I also refactored the code to make it cleaner.
 All the links in the Nav Bar brings you to a spot on the page. 
 I believe this meets the criteria. 
+Changed non semantic tags to semantics tags
